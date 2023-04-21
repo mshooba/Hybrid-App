@@ -1,0 +1,55 @@
+[
+  {
+    "id": 0,
+    "name": "Martini",
+    "description": "A refreshing and classic Cuban cocktail.",
+    "image": "assets/images/martini.jpg",
+    "recipe": "2 1/2 oz gin or vodka, 1/2 oz dry vermouth, 1 green olive or lemon twist",
+    "instructions": "In a mixing glass, combine gin or vodka and dry vermouth. Fill with ice and stir well. Strain into a chilled cocktail glass. Garnish with a green olive or lemon twist."
+  },
+
+  {
+    "id": 1,
+    "name": "Margarita",
+    "description": "This classic Mexican cocktail is made with tequila, lime juice, and triple sec. It's typically served in a salt-rimmed glass and garnished with a lime wedge.",
+    "image": "assets/images/margarita.jpg",
+    "recipe": "2 oz tequila, 1 oz lime juice, 1/2 oz triple sec, salt for rim (optional)",
+    "instructions": "Rub the rim of a chilled cocktail glass with a lime wedge and dip the rim into salt (optional). In a shaker, combine tequila, lime juice, triple sec, and ice. Shake well and strain into the prepared glass. Garnish with a lime wedge."
+  },
+
+  {
+    "id": 2,
+    "name": "Old Fashioned",
+    "description": "of description",
+    "image": "assets/images/old-fashioned.jpg",
+    "recipe": "2 oz bourbon or rye whiskey, 1 tsp simple syrup, 2 dashes Angostura bitters, 1 orange slice, 1 maraschino cherry",
+    "instructions": "In an Old Fashioned glass, muddle the orange slice, cherry, and simple syrup. Fill the glass with ice and add bourbon or rye whiskey and bitters. Stir well and garnish with an additional orange slice and cherry."
+  },
+
+  {
+    "id": 3,
+    "name": "Gin and Tonic",
+    "description": "g and",
+    "image": "assets/images/gin-tonic.jpg",
+    "recipe": "2 oz gin, 4 oz tonic water, 1 lime wedge",
+    "instructions": "In a highball glass filled with ice, pour gin and tonic water. Stir well and garnish with a lime wedge."
+  },
+
+  {
+    "id": 4,
+    "name": "Mojito",
+    "description": "A refreshing and classic Cuban cocktail.",
+    "image": "assets/images/mojito.jpg",
+    "recipe": "2 oz white rum, 1 oz fresh lime juice, 1 oz simple syrup, 6 fresh mint leaves, club soda",
+    "instructions": "In a cocktail shaker, muddle the mint leaves with the lime juice and simple syrup. Add ice and rum, and shake well. Strain into a highball glass filled with ice. Top with club soda and garnish with a sprig of mint and a lime wedge."
+    },
+
+    {
+      "id": 5,
+      "name": "Negroni",
+      "description": "A classic Italian cocktail made with gin, vermouth, and Campari.",
+      "image": "assets/images/negroni.jpg",
+      "recipe": "1 oz gin, 1 oz sweet vermouth, 1 oz Campari, orange twist",
+      "instructions": "In a mixing glass filled with ice, combine gin, sweet vermouth, and Campari. Stir well and strain into a rocks glass filled with ice. Garnish with an orange twist."
+      }
+]
