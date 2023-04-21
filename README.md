@@ -1,16 +1,30 @@
-# test_test
+# Cocktail Recipe App
 
-A new Flutter project.
+This app allows users to browse and learn how to make various cocktails. Users can view a list of cocktails on the main screen, tap on a cocktail to view its recipe and instructions, and even save their favorite cocktails for future reference.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse a list of cocktails
+- View a cocktail's recipe and instructions
+- Save favorite cocktails for easy access
+- Search for cocktails by name
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository to your local machine.
+2. Open the project in your preferred IDE or text editor.
+3. Run `flutter pub get` to install the project dependencies.
+4. Connect your device or emulator and run the app using `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Write your code and tests.
+4. Submit a pull request explaining the changes you've made.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
